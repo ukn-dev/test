@@ -4,8 +4,8 @@ This is a template for a Discord bot using discord.js v14. Feel free to use and 
 
 ## Features
 
-- 💬 Slash commands & message commands
-- 🛡️ Moderation commands (ban, kick, mute)
+- Slash commands & message commands
+- Moderation commands (ban, kick, mute)
 
 ## Run the script
 
@@ -27,7 +27,7 @@ clientId=ID OF YOUR BOT
 
 Finally, you can just run `node .` and wait.
 
-## Contact and Author
+## Contact & Author
 
 If you encounter any issues, please contact me on Discord : unkn0wn.exe
 I am the only creator [@ukn-dev](https://github.com/ukn-dev)
