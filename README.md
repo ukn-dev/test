@@ -2,10 +2,6 @@
 
 This is a template for a Discord bot using discord.js v14. Feel free to use and customize it for your own needs!
 
-## Author
-
-- [@ukn-dev](https://github.com/ukn-dev)
-
 ## Features
 
 - 💬 Slash commands & message commands
@@ -31,6 +27,7 @@ clientId=ID OF YOUR BOT
 
 Finally, you can just run `node .` and wait.
 
-## Contact
+## Contact and Author
 
-If you encounter any issues, please contact me on Discord: unkn0wn.exe
+If you encounter any issues, please contact me on Discord : unkn0wn.exe
+I am the only creator [@ukn-dev](https://github.com/ukn-dev)
