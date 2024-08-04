@@ -30,4 +30,5 @@ Finally, you can just run `node .` and wait.
 ## Contact & Author
 
 If you encounter any issues, please contact me on Discord : unkn0wn.exe
+
 I am the only creator [@ukn-dev](https://github.com/ukn-dev)
