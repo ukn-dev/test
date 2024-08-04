@@ -1,12 +1,15 @@
 # Unknown Handler DiscordJS V14
 
-Are you looking for a simple and effective handler ?
-
-Here is a handler that I created, easy to use, optimized and complete.
+This is a template for a Discord bot using discord.js v14. Feel free to use and customize it for your own needs!
 
 ## Author
 
 - [@ukn-dev](https://github.com/ukn-dev)
+
+## Features
+
+- 💬 Slash commands & message commands
+- 🛡️ Moderation commands (ban, kick, mute)
 
 ## Run the script
 
